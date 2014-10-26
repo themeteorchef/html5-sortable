@@ -10,7 +10,7 @@ Install via [Atmosphere](http://atmospherejs.com):
 
 ### Basic Implementation
 
-To make any of your lists sortable, add a unique class to a list you'd like to make sortable. For example, we're adding the `.sortable` class to a [Bootstrap list group]() here:
+To make any of your lists sortable, add a unique class to a list you'd like to make sortable. For example, we're adding the `.sortable` class to a [Bootstrap list group](http://getbootstrap.com/components/#list-group) here:
 
 ```
 <template name="sortableExample">
@@ -29,7 +29,7 @@ And in our application code, we can call `$('.sortable').sortable()`:
 ```
 Template.sortableExample.rendered = ->
   $('.sortable').sortable()
-``` 
+```
 
 To test, just drag and drop items in the list!
 
