@@ -1,5 +1,8 @@
 ## HTML5 Sortable for Meteor
 
+### DEPRECATION NOTICE:
+This package is no longer being maintained. See [this issue](https://github.com/themeteorchef/html5-sortable/issues/1) for details on an upcoming replacement via [@dandv](https://github.com/dandv).
+
 Meteor implementation of [HTML5 Sortable](https://github.com/voidberg/html5sortable.git) for jQuery.
 
 ## Usage
